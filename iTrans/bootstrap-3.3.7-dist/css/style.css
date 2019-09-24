@@ -1,0 +1,9 @@
+.navbar-inverse {
+    background: #000033;
+}
+
+.btn {}
+
+.btn.btn-success {
+    background-color: blue;
+}
